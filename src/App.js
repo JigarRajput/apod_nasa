@@ -33,7 +33,7 @@ function App() {
       <h2 className='text-center py-4'>Astronomy Picture of the Day !</h2>
       <div className='row m-0'>
         <div className='col-lg-5'>
-          <img src={data_fetched.url} id="img" className='mx-sm-3' style={{ width: "100%", height: "95%", borderRadius: "15px" }} />
+          <img src={data_fetched.url} id="img" className='mx-sm-3' style={{ width: "100%", height: "98%", borderRadius: "15px" }} />
         </div>
         <div className='px-5 col-lg-7'>
           <div className='d-flex flex-row justify-content-between my-3'>
